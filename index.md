@@ -45,7 +45,7 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 ## Timeline
 
 * <b>TBA:</b> Registration open
-* <b>TBA:</b> Initial funding application closes
+<!-- * <b>TBA:</b> Initial funding application closes -->
 * <b>TBA:</b> Registration closes
 
 <!--

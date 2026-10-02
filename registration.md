@@ -32,6 +32,7 @@ To register please fill out this [form](TODO). If you do not want to use the for
 <!-- To be announced. -->
 
 
+{% comment %} no funding available yet
 ### On funding
 <!-- To be announced. -->
 We have some limited funding to support travel and accommodation costs (partially or fully). 
@@ -46,6 +47,7 @@ Initial decisions on whether we can grant support and how much will be made shor
 <!-- The funding deadline has now passed. -->
 <!-- We may be able to support later applications depending on the amount, so please don't hesitate to ask. -->
 Later applications will be decided on a rolling basis if there are funds remaining.
+{% endcomment %}
 
 ### Questions?
 
