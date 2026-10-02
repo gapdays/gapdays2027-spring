@@ -33,7 +33,7 @@ The schedule will be announced on [the program page]({{ site.baseurl }}/program)
 {{site.title}} is organised by
 
 * [James Mitchell](https://jdbm.me) (local organizer)
-* [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/) (local organizer)
+* [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Max Horn](https://www.quendi.de/en/math)
 
 ## Registration
